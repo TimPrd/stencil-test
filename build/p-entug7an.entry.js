@@ -1,0 +1,1 @@
+import{r as t,h as r}from"./p-b49b9ea2.js";const o=class{constructor(r){t(this,r)}render(){return[r("ion-header",null,r("ion-toolbar",{color:"primary"},r("ion-buttons",{slot:"start"},r("ion-back-button",{defaultHref:"/"})),r("ion-title",null,"List")))]}static get style(){return""}};export{o as app_list};

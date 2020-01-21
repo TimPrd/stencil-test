@@ -1,0 +1,1 @@
+import{r as o}from"./p-b49b9ea2.js";import{c as r,b as s,g as e}from"./p-9d332ddc.js";const t=class{constructor(r){o(this,r)}create(o){return r("ion-popover",o)}dismiss(o,r,e){return s(document,o,r,"ion-popover",e)}async getTop(){return e(document,"ion-popover")}};export{t as ion_popover_controller};
